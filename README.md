@@ -2,6 +2,7 @@
 👨‍⚖️LINUX É UM SISTEMA OPERACIONAL DE CÓDIGO ABERTO BASEADO NO KERNEL DO UNIX.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=LINUX)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.kernel.org/) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PRIMEIROS%20PASSOS-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV&si=b2Oxhn35yQ4nNYjL)
