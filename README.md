@@ -7,10 +7,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/-PRIMEIROS%20PASSOS-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV&si=b2Oxhn35yQ4nNYjL)
 [![GitHub Repo stars](https://img.shields.io/badge/-HORA%20DE%20CODAR-blueviolet)](https://youtube.com/playlist?list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH&si=nbJqY8_BLVJdsTRJ)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
-
 # 🌟CONCEITO:
 O Linux é um sistema operacional de código aberto e baseado no kernel Linux. O conceito fundamental do Linux envolve os seguintes aspectos:
 
