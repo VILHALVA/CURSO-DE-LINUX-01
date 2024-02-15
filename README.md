@@ -1,5 +1,6 @@
-# CURSO DE LINUX
-👨‍⚖️LINUX É UM SISTEMA OPERACIONAL DE CÓDIGO ABERTO BASEADO NO KERNEL DO UNIX.
+# CURSO DE LINUX 01
+* 👨‍⚖️LINUX É UM SISTEMA OPERACIONAL DE CÓDIGO ABERTO BASEADO NO KERNEL DO UNIX.
+* 👨‍💻NESSE CURSO VOCÊ IRÁ APRENDER A GERENCIAR O LINUX VIA INTERFACE GRÁFICA.
 
 <img src="FOTO.png" align="center" width="400"> <br>
 
@@ -92,8 +93,7 @@ Agora você tem as ferramentas e os recursos necessários para começar a aprend
 5. **Documentação Variável**: A qualidade e a disponibilidade da documentação podem variar entre distribuições e projetos. Alguns podem oferecer excelente documentação, enquanto outros podem ser menos detalhados.
 
 ## SUBSIDIOS:
-- ["PRIMEIROS PASSOS" FOI CRIADO PELO "CURSO EM VIDEO"](https://youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV&si=b2Oxhn35yQ4nNYjL)
-- ["COMANDOS" FOI CRIADO PELO "HORA DE CODAR"](https://youtube.com/playlist?list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH&si=nbJqY8_BLVJdsTRJ)
+- [CURSO CRIADO PELO "CURSO EM VIDEO"](https://youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV&si=b2Oxhn35yQ4nNYjL)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://docs.kernel.org/)
 
